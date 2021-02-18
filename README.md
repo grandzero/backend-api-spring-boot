@@ -1,5 +1,10 @@
-#backend-api-spring-boot
-learning projects backend
+### Basic Spring Boot Rest API For Land Register Project
+
+### This is a spring boot learning project that uses postgreSQL database
+
+### Project has a few endpoints and deployed on heroku
+
+
 <br />
 Working Endpoints :
 <br />
